@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayEmociones">
+        <item>Aburrimiento</item>
+        <item>Admiración</item>
+        <item>Adoración</item>
+        <item>Alegría</item>
+        <item>Amor</item>
+        <item>Ansia</item>
+        <item>Apreciación estética</item>
+        <item>Asco</item>
+        <item>Compasión</item>
+        <item>Confusión</item>
+        <item>Deseo</item>
+        <item>Disgusto</item>
+        <item>Diversión</item>
+        <item>Dolor</item>
+        <item>Enfado</item>
+        <item>Éxtasis</item>
+        <item>Horror</item>
+        <item>Interés</item>
+        <item>Miedo</item>
+        <item>Nostalgia</item>
+        <item>Satisfacción</item>
+        <item>Simpatía</item>
+        <item>Sorpresa</item>
+        <item>Tolerancia</item>
+        <item>Tranquilidad</item>
+        <item>Tristeza</item>
+        <item>Triunfo</item>
+        <item>Valentía</item>
+        <item>Verguenza</item>
+        <item>Vulnerabilidad</item>
+    </string-array>
+
+    <string-array name="arrayFrases">
+        <item> -> La ira, el resentimiento y los celos no cambian el corazón de los otros, solo cambia el tuyo (Shannon L. Alder)</item>
+        <item> -> Lo que realmente importa para el éxito, el carácter, la felicidad y los logros vitales es un conjunto definido de habilidades sociales, no solo habilidades cognitivas, que son medidas por tests convencionales de cociente intelectual (Daniel Goleman)</item>
+        <item> -> Una emoción no causa dolor. La resistencia o supresión de una emoción causa dolor (Frederick Dodson)</item>
+        <item> -> Es muy importante entender que la inteligencia emocional no es lo opuesto a la inteligencia, no es el triunfo del corazón sobre la cabeza, es la intersección de ambas (David Caruso)</item>
+        <item> -> Como seres humanos, todos queremos ser felices y estar libres de la desgracia, todos hemos aprendido que la llave de la felicidad es la paz interna. Los mayores obstáculos para la paz interna son las emociones perturbadoras como el odio, apego, miedo y suspicacia, mientras que el amor y la compasión son las fuentes de la paz y la felicidad (Dalai Lama)</item>
+        <item> -> En la última década, la ciencia ha descubierto el rol que las emociones juegan en nuestras vidas. Los investigadores han encontrado que incluso más que el cociente intelectual, la conciencia emocional y habilidades para controlar sentimientos, determinarán nuestro éxito y felicidad en todos los ámbitos de la vida, incluyendo las relaciones familiares (John Gottman)</item>
+        <item> -> No sabemos lo que queremos y aun así somos responsables de lo que somos, eso es un hecho (Jean Paul Sartre)</item>
+        <item> -> No se trata de borrar las emociones negativas que nos pueden causar ciertos hechos, sino de reducir su intensidad (Jonathan García-Allen)</item>
+        <item> -> Cuando digo controlar las emociones, quiero decir las emociones realmente estresantes e incapacitantes. Sentir emociones es lo que hace a nuestra vida rica (Daniel Goleman)</item>
+        <item> -> Usa el dolor como una piedra en tu camino, no como una zona para acampar (Alan Cohen)</item>
+        <item> -> El sistema nervioso y las respuestas hormonales de personas hostiles son un camino para la enfermedad y la muerte (Redford Williams)</item>
+        <item> -> Cambia tu atención y cambiarás tus emociones. Cambia tu emoción y tu atención cambiará de lugar (Frederick Dodson)</item>
+        <item> -> No olvidemos que las pequeñas emociones son los grandes capitanes de nuestras vidas y las obedecemos sin darnos cuenta (Vincent Van Gogh)</item>
+        <item> -> Las emociones son contagiosas. Todos lo conocemos por experiencia. Después de un buen café con un amigo, te sientes bien. Cuando te toca un recepcionista mal educado en una tienda, te vas sintiéndote mal (Daniel Goleman).</item>
+        <item> -> Sé consciente de que en este momento estás creando. Estás creando tu próximo momento basado en lo que sientes y piensas. Eso es lo que es real (Doc Childre)</item>
+        <item> -> La confianza, como el arte, nunca proviene de tener todas las respuestas, sino de estar abierto a todas las preguntas (Earl Gray Stevens)</item>
+        <item> -> La voluntad es la intención favorecida por las emociones (Raheel Farooq)</item>
+        <item> -> Hay que ser conscientes de que lo que nos provoca malestar o ansiedad no son los eventos, sino cómo vinculamos las emociones a éstos (Jonathan García-Allen)</item>
+        <item> -> La verdadera compasión no significa solo sentir el dolor de otra persona, sino estar motivado a eliminarlo (Daniel Goleman)</item>
+    </string-array>
+
+    <string-array name="arraySignificados">
+        <item>El aburrimiento es uno de los tipos de emociones desagradables que surge cuando una persona realiza una actividad de la cual no quiere formar parte, lo que le produce malestar y fastidio. Esta emoción hace referencia a la expresión de cuando parece que no pasan las horas. En estos casos, se suele sentir un decaimiento del estado de ánimo.</item>
+        <item>Uno de los tipos de emociones que expresa fascinación hacia un estímulo externo. Demuestra entusiasmo y disfrute ante las cualidades positivas de otra persona. Es una emoción agradable que suele experimentar, por ejemplo, cuando te encuentras ante tu ídolo, ya sea un cantante, un deportista, un amigo, un familiar u otra persona que nos fascina por su trabajo o su forma de vivir.</item>
+        <item>Esta emoción esta relacionado con la de admiración, pero, concretamente, hace referencia a cuando elogiamos a alguna cosa a nivel espiritual. Puede ser una persona, un objeto, un animal, etc. Cuando se experimenta, se suele seguir todas las voluntades del objeto de deseo. Se podría considerar un admiración extrema.</item>
+        <item>Una emoción agradable que produce placer a la persona que la experimenta. Una sensación excitante que nos produce sentimientos gratos y, normalmente, también el deseo de compartirlo con los demás. La alegría nos hace sentir vivos.</item>
+        <item>El amor es una emoción que se convierte en un sentimiento profundo de conexión, atracción y afecto hacia una persona. El amor puede ser de distintos tipos, por ejemplo, el amor familiar, el amor hacia nuestra pareja o el amor hacia nuestros amigos/as.</item>
+        <item>Seguimos con más tipos de emociones. En este caso, el ansia hace referencia a sensación de inquietud ante una necesidad o deseo de conseguir algo, por ejemplo, al tener mucha hambre o sed y no poder satisfacer esa necesidad. También puede surgir ante deseos de carácter emocional o representar inseguridades ante determinados estímulos.</item>
+        <item>Si te preguntas cuáles son los tipos de emociones, una de ellas es la apreciación estética. Esta emoción surge ante la contemplación de obras de arte y produce una sensación de placer. Se suele relacionar con las personas que trabajan con arte.</item>
+        <item>Una de las emociones primarias que surge cuando algo nos produce una repulsión extrema que cuesta soportar. Suele ir acompañado de síntomas físicos como arcadas o malestar general. Una situación frecuente que provoco esta sensación son los olores desagradables como la basura o las defecaciones.</item>
+        <item>Si hablamos de emociones humanas, la compasión es lo que sentimos cuando alguien está sufriendo y decidimos ayudarlo, aunque no lo merezca por como se ha comportado. En definitiva, es la capacidad de perdonar o ayudar a la personas que sufre y que necesitan apoyo en ese momento.</item>
+        <item>Uno de los tipos de emociones que aparece no cuando no conseguimos averiguar el origen del estímulo que percibimos. Produce una sensación de desconcierto y duda ante la situación en la que nos encontramos. Por ejemplo, nos puede provocar confusión oír un ruido un ruido de coche, pero no ver de dónde viene.</item>
+        <item>Cuando hablamos de deseo carnal, no referimos a cuando existe una atracción física hacia otra persona. El hecho de ver al objeto de deseo produce placer y provoca impulsos sexuales hacia él o ella. Este tipo de emoción ocurre cuando alguien nos atrae mucho.</item>
+        <item>Una de las emociones desagradables que se experimenta cuando el resultado de una situación no es el que esperabas. Tener un disgusto puede derivar en sentimientos de frustración y pena. En este artículo, verás cómo canalizar la frustración.</item>
+        <item>Una emoción muy agradable que surge cuando la persona vive una situación que le agrada y se lo pasa bien. Suele ir acompañada de síntomas físicos como la sonrisa. Si quieres aprender divertirte, en este artículo, te contamos cómo ser más divertido y sociable.</item>
+        <item>Cuando hablamos de tipos de emociones, también cabe mencionar el dolor empático. Suele producirse cuando una persona lo esta pasando mal y sientes el dolor de esa persona. Eso ayuda a comprenderla y también facilita el poder ayudarla.</item>
+        <item>Una de las emociones primarias negativas que se desarrollan ante una persona o una situación. Produce repulsión, ira y, según la gravedad, puede derivar en agresividad. Es importante aprender a controlar este tipo de emociones porque nos pueden afectar de forma muy negativa. Puede que alguna vez te hayas enfadado y no sabes ni por qué.</item>
+        <item>Una emoción cuyo origen es la alegría, pero las sensaciones que produce son mucho más fuertes. El éxtasis produce placer momentáneo y puede provocar que las personas actúen de forma irracional, incluso a perder el control de lo que están haciendo.</item>
+        <item>Uno de los tipos de emociones relacionada con el miedo, pero que provoca efectos mucho más intensos. Se define como una repulsión muy grande hacia una situación o objeto en concreto. Estos pueden ser reales o ficticios.</item>
+        <item>Una emoción que aparece cuando algo o alguien nos produce mucha curiosidad porque lo percibimos como un estímulo valioso o relacionado con nuestros gustos personales. Por ejemplo, cuando vemos un restaurante en el que sirven comida que nos gusta y sentimos que nos gustaría comer ahí.</item>
+        <item>Relacionado con la emoción de horror, el miedo es una reacción primaria que está directamente vinculada con el instinto de supervivencia. Se produce cuando percibimos un estímulo potencialmente peligroso que nos puede dañar físicamente y psicológicamente.</item>
+        <item>Si hablamos de tipos de emociones, la nostalgia está muy vinculada con la tristeza, pues surge cuando recordamos algo que en su momento nos hizo felices y que ahora ya no tenemos. La pérdida de este estímulo nos hace sentir decaídos y apenados.</item>
+        <item>Una de las emociones positivas que experimentamos cuando logramos alcanzar alguna meta concreta o cumplir un deseo que llevamos mucho tiempo persiguiendo. Un ejemplo de ello puede ser cuando has estudiado mucho para un examen y sacas buena nota.</item>
+        <item>Este tipo de emoción aparece en el momento en el que se experimenta una inclinación positiva hacia otra persona. Cuando la simpatía es mutua, suele ser el origen de una relación afectiva potencial, que será más o menos fuerte en función de cómo se desarrolle.</item>
+        <item>Una de las emociones primarias o neutras cuyo origen recae en la aparición de un estímulo que no esperábamos. Este estímulo puede producirse tanto sensaciones positivas como negativas, dependiendo de la situación.</item>
+        <item>Una acción o emoción que tiene su origen en el respeto mutuo. Consiste en no juzgar todos aquellos comportamientos, acciones o personalidades que sean diferentes a la nuestras. Ser tolerante es no dejarse llevar por los prejuicios.</item>
+        <item>Una sensación asociada a la calma. Esta emoción se produce cuando no percibimos ningún estímulo externo que pueda suponer un peligro para nosotros/as. Este tipo de emoción tiene efectos muy positivos en nuestro cuerpo, ya que nos permite relajarnos y descansar mejor.</item>
+        <item>Una de las emociones primarias negativas que se origina cuando percibimos un estímulo externo que nos aflige. Tener esta emoción se puede relacionar con situaciones de carácter personal, pero también puede aparecer en contextos ajenos a nosotros como, por ejemplo, cuando presenciamos un accidente.</item>
+        <item>Esta emoción está estrictamente relacionada con de la satisfacción, mencionada anteriormente. Aparece cuando logramos obtener algo por lo que hemos trabajado mucho y nos sentimos orgullosos/as de ello. Una de las emociones positivas que nos llenan de vitalidad.</item>
+        <item>Experimentamos la emoción de valentía cuando debemos enfrentarnos a situaciones arriesgadas o difíciles. El valor seria la consecuencia de haber logrado superar el miedo y ser capaz de lograr lo que nos proponíamos. Por ejemplo, solemos experimentar esta emoción cuando un ser querido necesita nuestra ayuda.</item>
+        <item>Una de las emociones negativas que surge a raíz de nuestros miedos. Aparece cuando queremos llevar a cabo alguna acción, pero no lo hacemos miedo a qué dirán los demás y hacer el ridículo delante de ellos/as. También puede surgir cuando sabemos que hemos hecho algo humillante y que, por ello, está en peligro nuestra reputación.</item>
+        <item>Una sensación que aparece cuando nos encontramos ante estímulos externos que no sabemos ni podemos gestionar y que pueden controlar nuestras acciones. Sin duda, es una de las emociones negativas que nos hacen sentir expuestos y débiles ante los demás.</item>
+    </string-array>
+</resources>

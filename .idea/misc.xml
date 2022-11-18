@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_datos_curiosos.xml" value="0.19" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_encuesta_emociones.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_frases_emociones.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_lista_emociones.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_lista_videos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_menu_principal.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_notas_diarias.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/activity_perfil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/list_item_emociones.xml" value="0.203125" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/layout/prueba_lista.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectBcalm/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1945" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
